@@ -4,7 +4,7 @@ p- today is wednesday - y/n
 
 q - the sky is clear - y/n
 
-- is OR
++ is OR
 . is And
 
 (1) property of 0
