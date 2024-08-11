@@ -48,7 +48,7 @@ p''=p
 
 (a)     p.(q+r) = (p.q)+(p.r)
 (b)     p+(q.r)=(p+q).(p+r)
-(c)	  p+p'q = p+q ( Also known as Distributive third law)
+(c)	p+p'q = p+q ( Also known as Distributive third law)
 
 (10) De Morgan's Law ( v imp)
 
