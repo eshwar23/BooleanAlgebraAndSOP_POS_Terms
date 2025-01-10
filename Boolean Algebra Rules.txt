@@ -8,12 +8,10 @@ q - the sky is clear - y/n
 . is And
 
 (1) property of 0
-
 (a) p + 0 = p
 (b) p . 0 = 0
 
 (2) property of 1
-
 (a) 1 + p =1
 (b) 1 . p = p
 
@@ -26,39 +24,30 @@ q - the sky is clear - y/n
 (b) (p.q).r = p.(q.r)
 
 (5) Complementarity law
-
 (a) p+p'=1
 (b) p.p'=0
 
 (6) Idempotence Law
-
 (a) p+p = p
 (b) p.p = p
 
 (7) Absorption Law
-
  p+pq=p
  p(1+q) =p
 
 (8) Involution Law
-
 p''=p
 
 (9) Distributive Law
-
 (a)     p.(q+r) = (p.q)+(p.r)
 (b)     p+(q.r)=(p+q).(p+r)
 (c)	p+p'q = p+q ( Also known as Distributive third law)
 
-(10) De Morgan's Law ( v imp)
-
+(10) De Morgan's Law ( v imp) - REMEMBER THE RULE : Break the line and change the sign
 (a) (p+q)'=p'.q'
 (b) (p.q)'=p'+q'
 
-REMEMBER : Break the line and change the sign
-
 (11) Conditional Elimination
 	p->q=p'+q
-
 (12) Biconditional Elimination
 	p<->q=(p->q).(q->p)
