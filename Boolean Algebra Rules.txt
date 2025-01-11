@@ -51,3 +51,17 @@ p''=p
 	p->q=p'+q
 (12) Biconditional Elimination
 	p<->q=(p->q).(q->p)
+----------------------------------------------------------------------------------------------------------------------------------
+Reduce the boolean expression and state the laws used at each step (MINIMIZE THE NUMBER OF GATES)
+(1) {(C.D)' + A} + A +C.D+A.B
+(2) A.{B+C(A.B+A.C)'}
+(3) X.(Y+Z(X.Y+X.Z)')
+(4) X'.Y'.Z'+X'.Y'.Z+X'.Y.Z+X'.Y.Z'+X.Y'.Z+X'.Y'.Z
+(5) XY+XZ+XYZ
+(6) A.[B+C(AB+AC)']
+(7) XY(XY+YZ)
+(8) verify x'yz+xy'z+xyz'+xyz=xy+yz+zx
+(9) ab+a'c+bc
+(10)AB'+A'BC'+(AC)'+BC
+(11)CD'+A+A+C'.D'+AB
+
