@@ -70,7 +70,7 @@ Draw logic circuit diagram for the following :
 (2) (A+B)(B+C)(C'+A')
 (3) A'B+BC
 (4) XYZ+X'YZ'
-(5) XY+XY'Z+XYZ --- Use only universal gates -- NAND GATE --
-(6)ABC+AB'C'+A'BC ----- Use only universal gates -- NAND GATE--
-(7)(X+Y).(X'+Y).(X'+Y')--- Use only universal gates -- NOR GATE--
-(8) (X+Y+Z).(X+Y'+Z')--- Use only universal gates -- NOR GATE--
+(5) XY+XY'Z+XYZ --- Use only universal gates -- NAND GATE --Sum Of Product -- SOP expression
+(6)ABC+AB'C'+A'BC ----- Use only universal gates -- NAND GATE----Sum Of Product -- SOP expression
+(7)(X+Y).(X'+Y).(X'+Y')--- Use only universal gates -- NOR GATE----Product Of Sum -- POS expression
+(8) (X+Y+Z).(X+Y'+Z')--- Use only universal gates -- NOR GATE--Product Of Sum -- POS expression
