@@ -66,20 +66,20 @@ Reduce the boolean expression and state the laws used at each step (MINIMIZE THE
 (11)CD'+A+A+C'.D'+AB
 
 Draw logic circuit diagram for the following :
-(1) xy +xy'+xyz
-(2) (A+B)(B+C)(C'+A')
-(3) A'B+BC
-(4) XYZ+X'YZ'
-(5) XY+XY'Z+XYZ --- Use only universal gates -- NAND GATE --Sum Of Product -- SOP expression-- 
+(1) xy +xy'+xyz -- SOP
+(2) (A+B)(B+C)(C'+A') --POS
+(3) A'B+BC --SOP
+(4) XYZ+X'YZ' --SOP 
+(5) XY+XY'Z+XYZ ---SOP- Use only universal gates -- NAND GATE --Sum Of Product -- SOP expression-- 
 step 1: Draw the gates using AND and OR gate 
 step 2: Replace ALL AND and OR gates with NAND gate
-(6)ABC+AB'C'+A'BC ----- Use only universal gates -- NAND GATE----Sum Of Product -- SOP expression -- 
+(6)ABC+AB'C'+A'BC -----SOP- Use only universal gates -- NAND GATE----Sum Of Product -- SOP expression -- 
 step 1: Draw the gates using AND and OR gate 
 step 2: Replace ALL AND and OR gates with NAND gate
-(7)(X+Y).(X'+Y).(X'+Y')--- Use only universal gates -- NOR GATE----Product Of Sum -- POS expression
+(7)(X+Y).(X'+Y).(X'+Y')---POS- Use only universal gates -- NOR GATE----Product Of Sum -- POS expression
 step 1: Draw the gates using AND and OR gate 
 step 2: Replace ALL AND and OR gates with NOR gate
-(8) (X+Y+Z).(X+Y'+Z')--- Use only universal gates -- NOR GATE--Product Of Sum -- POS expression
+(8) (X+Y+Z).(X+Y'+Z')--- POS- Use only universal gates -- NOR GATE--Product Of Sum -- POS expression
 step 1: Draw the gates using AND and OR gate 
 step 2: Replace ALL AND and OR gates with NOR gate
 
